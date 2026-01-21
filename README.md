@@ -1,2 +1,17 @@
-# data-analytics-portfolio
-My journey to becoming a Data Analyst with projects in Excel, SQL, Power BI, and Python
+# Data Analytics Portfolio
+
+This repository documents my journey toward becoming a Data Analyst.
+
+## Skills
+- Excel
+- SQL
+- Power BI
+- Python
+
+## Focus
+- Data cleaning
+- Data analysis
+- Business insights
+- Dashboarding
+
+Projects will be added progressively.
